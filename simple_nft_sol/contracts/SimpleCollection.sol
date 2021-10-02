@@ -12,7 +12,7 @@ function CreateCollection (string memory tokenURI) public  returns(uint256){
 
     uint256 newItemID=tokenCounter;
     _safeMint(msg.sender,newItemID);
-    _setTokenURI(newItemIDE,TokenURI);
+    _setTokenURI(newItemID,TokenURI);
     tokencounter++;
     return newitemID;
 }
