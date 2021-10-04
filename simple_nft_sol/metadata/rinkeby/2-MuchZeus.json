@@ -1,0 +1,11 @@
+{
+    "name": "MUCHZEUS",
+    "description": "An many adorable cute frenchies!",
+    "image": "https://kepkuldes.com/image/SXYUvd",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 100
+        }
+    ]
+}

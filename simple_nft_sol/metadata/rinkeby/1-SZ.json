@@ -1,0 +1,11 @@
+{
+    "name": "SmallZ",
+    "description": "An adorable Zeus pup!",
+    "image": "https://kepkuldes.com/image/SXYxZy",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 100
+        }
+    ]
+}
